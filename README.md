@@ -1,8 +1,8 @@
-# Project name
+# Project name:
 
 Random quotes generator.
 
-## git clone
+## git clone:
 
 repos [git](https://github.com/bpinazmul18/npm-rand-quotes-gen).
 
@@ -10,19 +10,22 @@ repos [git](https://github.com/bpinazmul18/npm-rand-quotes-gen).
 git clone https://github.com/bpinazmul18/npm-rand-quotes-gen.git
 ```
 
-## Installation
+## Installation:
 
 ```nodejs
 yarn install
 ```
 
-## Usage
+## Usage:
 
 ```nodejs
 yarn start
 ```
 
-## Contributing
+## Contributing:
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+
+## Inspired by:
+[Learn with Sumit - LWS - Bangladesh](https://www.youtube.com/channel/UCFM3gG5IHfogarxlKcIHCAg).
