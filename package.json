@@ -2,7 +2,9 @@
   "name": "npm-rand-quotes-gen",
   "version": "1.0.0",
   "main": "index.js",
-  "start": "nodemon index",
+  "scripts": {
+    "start": "nodemon index"
+  },
   "repository": "https://github.com/bpinazmul18/npm-rand-quotes-gen.git",
   "author": "bpinazmul18 <bpinazmul18@gmail.com>",
   "license": "MIT",
