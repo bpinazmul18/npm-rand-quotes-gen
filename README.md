@@ -10,10 +10,16 @@ repos [git](https://github.com/bpinazmul18/npm-rand-quotes-gen).
 git clone https://github.com/bpinazmul18/npm-rand-quotes-gen.git
 ```
 
+## Installation
+
+```nodejs
+yarn install
+```
+
 ## Usage
 
 ```nodejs
-node index
+yarn start
 ```
 
 ## Contributing
