@@ -4,7 +4,7 @@ Random quotes generator.
 
 ## git clone
 
-Use the package manager [git](https://github.com/bpinazmul18/npm-rand-quotes-gen) to install foobar.
+repos [git](https://github.com/bpinazmul18/npm-rand-quotes-gen).
 
 ```bash
 git clone https://github.com/bpinazmul18/npm-rand-quotes-gen.git
