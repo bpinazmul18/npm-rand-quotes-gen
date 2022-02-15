@@ -7,8 +7,14 @@
 *
 */
 
-
 // Dependency
 const mathLibrary = require('./lib/math')
+const quotesLibrary = require('./lib/quotes')
 
-console.log(mathLibrary.getRandNum(1, 10))
+// App object - Module scaffolding
+const app = {};
+
+// Configuration
+app.config = {
+    timeBetweenQuotes: 1000,
+}
